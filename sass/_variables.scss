@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+// Variables
+:root {
+    // Box sizes
+    --insert-width: 63.6rem;
+
+    // Font sizes
+    --insert-title-size: 2rem;
+    --insert-text-size: 1.2rem;
+    --insert-emphasis-size: 2.8rem;
+    
+    // Colours
+    --primary: hsl(179, 62%, 43%);
+    --primary-light: hsl(179, 66%, 53%);
+    --secondary: hsl(71, 73%, 54%);
+    --tertiary: white;
+    --neutral-primary: hsl(204, 43%, 93%);
+    --neutral-secondary: hsl(218, 22%, 67%);
+
+    // Rounded corners
+    --insert-rounded-corner: 0.6rem;
+    --button-rounded-corner: 0.4rem;
+
+    // Shadow
+    --primary-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+
+    // Margins and spacings
+    --insert-spacing: 2.4rem;
+}
